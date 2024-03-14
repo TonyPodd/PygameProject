@@ -1,2 +1,2 @@
 # Pygame_project
- some
+A small pygame, quite beautiful, and simple
